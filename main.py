@@ -1,6 +1,6 @@
 # Mengimpor library os untuk mengatur file dan folder
 import os
-# Mengimpor fungsi-fungsi yang sudah kita buat dari file utils.py
+# Mengimpor fungsi-fungsi yang sudah dibuat dari file utils.py
 from utils import prepare_data, train_model, evaluate_model, save_visualizations
 
 def main():
